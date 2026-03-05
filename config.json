@@ -1,0 +1,13 @@
+{
+  "url": "https://docs.google.com/forms/d/e/TU_FORM_ID/viewform",
+  "count": 20,
+  "delay_min": 3.0,
+  "delay_max": 8.0,
+  "headless": true,
+  "timeout": 20,
+  "threads": 1,
+  "proxy": null,
+  "proxy_file": null,
+  "max_responses": 500,
+  "user_agents": []
+}
