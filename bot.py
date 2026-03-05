@@ -1,12 +1,3 @@
-"""
-bot.py — Google Forms Bot
-
-Uso:
-    python bot.py --url "https://docs.google.com/forms/d/e/FORM_ID/viewform" --count 10
-    python bot.py --config config.json
-    python bot.py --url URL --count 5 --threads 3 --no-headless
-"""
-
 import argparse
 import logging
 import random
